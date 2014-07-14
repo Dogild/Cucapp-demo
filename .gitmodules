@@ -1,0 +1,9 @@
+[submodule "features"]
+	path = features
+	url = https://github.com/Dogild/Cucapp-demo-features.git
+[submodule "Cucapp-demo-app"]
+	path = Cucapp-demo-app
+	url = https://github.com/Dogild/Cucapp-demo-app.git
+[submodule "cucapp"]
+	path = cucapp
+	url = https://github.com/cappuccino/cucapp.git
