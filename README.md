@@ -14,6 +14,10 @@ Then you maybe need to install cucumber on your system :
 
 `cd Cucapp; gem install cucapp`
 
+And go to the folder Cucapp-demo-app and do :
+
+`capp gen -l .`
+
 ### Usage
 
 To launch it, simply do `./cucapp_launcher.py`
