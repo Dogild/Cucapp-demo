@@ -12,7 +12,7 @@ Firstly you need to sync with the submodules :
 
 Then you maybe need to install cucumber on your system :
 
-`cd cucapp; gem build cucapp.gemspec; gem install cucapp`
+`cd cucapp; jake install;`
 
 ### Usage
 
